@@ -12,7 +12,7 @@ HTML, CSS, SCSS/SASS, Git/Github, JavaScript,TypeScript, ReactJS, NodeJS, Expres
 
 ## Currently focusing on
 
-🧠 Deepening my expertise in Backend Engineering
+Deepening my expertise in Backend Engineering
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://learn-about-me.vercel.app/)
